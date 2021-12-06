@@ -1,0 +1,72 @@
+body {
+  margin: 0 15%;
+  font-family: sans-serif;
+  letter-spacing: 2px;
+  background: lightblue url(flowerhome.JPG) no-repeat center 10px ;
+}
+h1{
+  text-align: center;
+  font-family: serif;
+  font-weight: bold;
+  text-transform: uppercase;
+  color: black;
+  margin-top: 30px;
+  background-color: white;
+  opacity: .5;
+}
+h2 {
+color: #2e565c;
+margin-left: 45px;
+font-family: "Pacifico", sans-serif;
+}
+div {
+background-color: #a5c4aa;
+width: 1000px;
+padding: 50px;
+border: 5px solid gray;
+margin: 0;
+}
+#location {
+  background-color: white;
+  opacity: .5;
+  width: 200px;
+  height: 455px;
+}
+#about {
+  background-color: white;
+    opacity: 1;
+}
+#navbar {
+	margin:10px;
+	width:900px;
+	font-family: sans-serif;
+}
+#navbar li {
+	display:block;
+	width:170px;
+	float:left;
+	margin-left:2px;
+	border:1px solid #000;
+}
+
+#navbar a {
+	display:block;
+	padding:3px;
+	background-color:#fff;
+	color:#009;
+}
+
+a:link {
+  color: #993399;
+}
+a:visited: {
+  color: #937393;
+}
+a:hover {
+  color: #c700f2;
+  background-color: lavender;
+}
+a:active {
+  background-color: white;
+  color: #ff00ff;
+}
